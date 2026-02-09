@@ -1,7 +1,7 @@
 # Welcome to My GitHub
 
-University of Oregon | College of Arts and Sciences | Major in Computer Science, B.S. | Graduating June 2026  
-Minoring in Mathematics, B.S.  
+University of Oregon | College of Arts and Sciences | Major in Computer Science, B.S. | Graduating June 2026
+Minoring in Mathematics, B.S.
 Minoring in Physics, B.S.
 
 ## Featured Projects
