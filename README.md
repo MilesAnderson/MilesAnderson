@@ -4,7 +4,8 @@ University of Oregon | College of Arts and Sciences| Majoring in Computer Scienc
                                                      Minoring in Mathematics, B.S.
                                                      Minoring in Physics, B.S.
 
-#Featured Projects
+##Featured Projects
+
 [Paper Trading Web App](https://github.com/AndrewChan8/stock-paper-trading.git)
 Developed a browser-based paper trading platform in a team of four over a
 10-week period. Served as the backend developer, building RESTful APIs
