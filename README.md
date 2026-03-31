@@ -4,13 +4,9 @@ University of Oregon | College of Arts and Sciences | Major in Computer Science,
 
 ## Featured Projects
 
-[Paper Trading Web App](https://github.com/AndrewChan8/stock-paper-trading.git)
+[Quishield Mobile App](https://github.com/MilesAnderson/quishield)
 
-Developed a browser-based paper trading platform in a team of four over a
-10-week period. Served as the backend developer, building RESTful APIs
-in Node.js to connect a React frontend with a PostgreSQL database.
-Implemented simulated buy/sell functionality and real-time stock tracking
-using virtual currency.
+Worked in a team of three over 10 weeks to develop a mobile app that determines the safety of a QR code before a user visits it. Implemented QR detection/decoding pipelines and security analysis metrics. Focused on improving detection accuracy through evaluation of false positives and false negatives.
 
 [Decision Tree vs. Multilayer Perceptron Research Paper](https://github.com/MilesAnderson/ml-calorie-regression.git)
 
